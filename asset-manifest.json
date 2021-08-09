@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-final-shoplane/static/css/main.431b1e80.chunk.css",
+    "main.js": "/react-final-shoplane/static/js/main.b8fad773.chunk.js",
+    "main.js.map": "/react-final-shoplane/static/js/main.b8fad773.chunk.js.map",
+    "runtime-main.js": "/react-final-shoplane/static/js/runtime-main.0d60c3f7.js",
+    "runtime-main.js.map": "/react-final-shoplane/static/js/runtime-main.0d60c3f7.js.map",
+    "static/js/2.745c999d.chunk.js": "/react-final-shoplane/static/js/2.745c999d.chunk.js",
+    "static/js/2.745c999d.chunk.js.map": "/react-final-shoplane/static/js/2.745c999d.chunk.js.map",
+    "static/js/3.427dbbce.chunk.js": "/react-final-shoplane/static/js/3.427dbbce.chunk.js",
+    "static/js/3.427dbbce.chunk.js.map": "/react-final-shoplane/static/js/3.427dbbce.chunk.js.map",
+    "index.html": "/react-final-shoplane/index.html",
+    "static/css/main.431b1e80.chunk.css.map": "/react-final-shoplane/static/css/main.431b1e80.chunk.css.map",
+    "static/js/2.745c999d.chunk.js.LICENSE.txt": "/react-final-shoplane/static/js/2.745c999d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d60c3f7.js",
+    "static/js/2.745c999d.chunk.js",
+    "static/css/main.431b1e80.chunk.css",
+    "static/js/main.b8fad773.chunk.js"
+  ]
+}
